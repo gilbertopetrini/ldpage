@@ -1,3 +1,6 @@
+body{
+  background-color: black;
+}
 strong{
   color: #9545DA;
   animation: grad 1.0s infinite;

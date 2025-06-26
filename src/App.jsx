@@ -29,7 +29,7 @@ function App() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/f35fbd4d-5c78-49b7-99ba-2ddaf04e8e9c" target='_blank'>
+          <a className='mid2' href="https://pay.kirvano.com/f35fbd4d-5c78-49b7-99ba-2ddaf04e8e9c">
             Comprar agora <MdArrowOutward/>
           </a>
 
@@ -77,7 +77,7 @@ function App() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/2010147e-3036-47c6-8a25-9fa54c6e8d30" target='_blank'>
+          <a className='mid2' href="https://pay.kirvano.com/2010147e-3036-47c6-8a25-9fa54c6e8d30">
             Comprar agora <MdArrowOutward/>
           </a>
 
