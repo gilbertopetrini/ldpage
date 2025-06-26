@@ -1,9 +1,6 @@
-import { useState } from 'react'
 import './App.css'
 import { MdArrowOutward } from "react-icons/md";
 import { FaCheck } from "react-icons/fa";
-import hand from './assets/hand.png';
-import { PiSmileyWink } from "react-icons/pi";
 
 function App() {
 
