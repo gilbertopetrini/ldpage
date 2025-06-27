@@ -77,7 +77,7 @@ function App() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/2010147e-3036-47c6-8a25-9fa54c6e8d30">
+          <a className='mid2' href="https://pay.kirvano.com/4b76a39b-8c97-4878-b4c3-ce9dc3f669a9">
             Comprar agora <MdArrowOutward/>
           </a>
 
