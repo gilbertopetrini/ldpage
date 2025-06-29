@@ -1,6 +1,7 @@
 import './App.css'
 import { MdArrowOutward } from "react-icons/md";
 import { FaCheck } from "react-icons/fa";
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
 
