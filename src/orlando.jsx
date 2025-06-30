@@ -32,7 +32,7 @@ function Orlando() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/90a7a8e3-516b-47a0-9df7-b035c2305cdb">
+          <a className='mid2' href="https://pay.kirvano.com/90a7a8e3-516b-47a0-9df7-b035c2305cdb?aff=06fdedd9-bcf5-479a-976e-295a6e284d21">
             Comprar agora <MdArrowOutward/>
           </a>
 
@@ -80,7 +80,7 @@ function Orlando() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/4b76a39b-8c97-4878-b4c3-ce9dc3f669a9">
+          <a className='mid2' href="https://pay.kirvano.com/4b76a39b-8c97-4878-b4c3-ce9dc3f669a9?aff=3621d5c6-5614-4a12-8470-e179c31c7a6c">
             Comprar agora <MdArrowOutward/>
           </a>
 
