@@ -30,7 +30,7 @@ function Mantovano() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/90a7a8e3-516b-47a0-9df7-b035c2305cdb">
+          <a className='mid2' href="https://pay.kirvano.com/89fe5937-01cf-45f5-af56-6ce3294095ad?aff=05135e4a-631f-4a39-8521-8f718f2cdbbc">
             Comprar agora <MdArrowOutward/>
           </a>
 
@@ -78,7 +78,7 @@ function Mantovano() {
               </div>
           </div>
 
-          <a className='mid2' href="https://pay.kirvano.com/4b76a39b-8c97-4878-b4c3-ce9dc3f669a9">
+          <a className='mid2' href="https://pay.kirvano.com/a85e30ca-bf8b-4cdd-9dcb-9cbbc4ab1c21?aff=9c88f715-6bc9-4547-a7c7-826998977396">
             Comprar agora <MdArrowOutward/>
           </a>
 
