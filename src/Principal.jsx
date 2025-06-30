@@ -2,6 +2,7 @@ import './App.css'
 import { MdArrowOutward } from "react-icons/md";
 import { FaCheck } from "react-icons/fa";
 import { BrowserRouter } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom';
 
 function Principal() {
 
@@ -11,7 +12,7 @@ function Principal() {
 
       <div className='card1'>
 
-        <div className='maispopular'>
+        <div className='maispopular' onClick={() => navigate('/Orlando ')} >
           Mais popular
         </div>
 
