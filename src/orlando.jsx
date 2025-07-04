@@ -19,8 +19,11 @@ function Orlando() {
 
         <div className='maincontainer'>
           <div className='header'>
-            <p>Com gerador de notificações</p>
-            <p>Pagamento único para sempre.</p>
+            <div>
+              <p>Com gerador de notificações</p>
+              <p>Pagamento único para sempre.</p>
+            </div>
+            <img className='imge' src='/logo.png'/>
           </div>
 
           <div className='mid1'>
@@ -66,9 +69,12 @@ function Orlando() {
       <div className='card1'>
 
         <div className='maincontainer2'>
-          <div className='header'>
-            <p>Sem gerador de notificações</p>
-            <p>Pagamento único para sempre.</p>
+          <div className='header2'>
+            <div>
+              <p>Sem gerador de notificações</p>
+              <p>Pagamento único para sempre.</p>
+            </div>
+            <img className='imge' src='/logo.png'/>
           </div>
 
           <div className='mid1'>
